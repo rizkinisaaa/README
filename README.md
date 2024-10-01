@@ -1,4 +1,4 @@
-# 🌟 UI/UX Portfolio - Annisa Rizki Amaliah
+# 🌟 Portfolio - Annisa Rizki Amaliah
 
 👋 Hi there! I'm Annisa Rizki Amaliah, a passionate UI/UX Designer with a love for creating intuitive, engaging, and impactful digital experiences. Welcome to my portfolio repository where I showcase some of my favorite projects!
 
@@ -24,7 +24,7 @@ I'm a designer focused on understanding users' needs and delivering clean, moder
 - **Technologies Used:** [Figma, Canva]
 - **Key Features:** Wireframing, prototyping, user testing, interactive elements.
 
-## FOR MORE INFORMATION ABOUT MY PROJECTS, VISIT: 
+## FOR MORE INFORMATION ABOUT MY PROJECTS, VISIT: https://drive.google.com/file/d/1rB6RFW4R-lbK6VZAQSCpPKBzfTQKgNdj/view?usp=sharing
 
 ## 🎯 My Design Process
 
@@ -37,7 +37,6 @@ I'm a designer focused on understanding users' needs and delivering clean, moder
 
 ## 📱 Let's Connect!
 
-- **LinkedIn:** [Your LinkedIn Profile]
 - **Email:** annisa.rizki21@mhs.uinjkt.ac.id
 
 Feel free to check out my projects, and don't hesitate to reach out if you want to collaborate or just chat about design!
